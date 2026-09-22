@@ -1,1 +1,0 @@
-ERROR: Player names should not be the same

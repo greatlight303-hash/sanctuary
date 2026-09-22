@@ -1,6 +1,0 @@
-Welcome to a new game:
-Player A: Name
-Player B: Name1
-Player A turn -> : PLAY
-Player A -> Quits
-WIN GAME: Player B wins
