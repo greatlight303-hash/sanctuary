@@ -1,0 +1,59 @@
+{
+  "project": "GreatLight PROJECT \u2014 SANCTUARY",
+  "part": 1,
+  "version": "1.1",
+  "test_model": "complete CLI scenario transcript",
+  "input_directory": "inputs",
+  "output_directory": "outputs",
+  "case_count": 12,
+  "cases": [
+    {
+      "id": 1,
+      "name": "01_valid_cli_player_a_quits"
+    },
+    {
+      "id": 2,
+      "name": "02_valid_gui_startup_player_a_quits"
+    },
+    {
+      "id": 3,
+      "name": "03_invalid_game_type_2"
+    },
+    {
+      "id": 4,
+      "name": "04_invalid_game_type_text"
+    },
+    {
+      "id": 5,
+      "name": "05_invalid_player_a_integer"
+    },
+    {
+      "id": 6,
+      "name": "06_invalid_player_b_integer"
+    },
+    {
+      "id": 7,
+      "name": "07_invalid_player_a_letters_only"
+    },
+    {
+      "id": 8,
+      "name": "08_invalid_player_b_letters_only"
+    },
+    {
+      "id": 9,
+      "name": "09_player_names_same"
+    },
+    {
+      "id": 10,
+      "name": "10_player_names_case_sensitive"
+    },
+    {
+      "id": 11,
+      "name": "11_valid_player_name_alphanumeric"
+    },
+    {
+      "id": 12,
+      "name": "12_invalid_startup_does_not_start_game"
+    }
+  ]
+}

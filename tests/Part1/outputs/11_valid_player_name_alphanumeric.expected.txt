@@ -1,0 +1,6 @@
+Welcome to a new game:
+Player A: Player7
+Player B: User2026
+Player A turn -> : PLAY
+Player A -> Quits
+WIN GAME: Player B wins
